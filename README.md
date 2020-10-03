@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done. My Web Visualization Dashboard is at https://loriward.github.io/Web-Design-Challenge/index.html.
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
